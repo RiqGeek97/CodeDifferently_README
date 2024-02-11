@@ -43,4 +43,4 @@ If you ever want to start a conversation with me then start by talking about the
 
 # Thats a wrap
 
-Thank you for ypur time!
+Thank you for your time!
